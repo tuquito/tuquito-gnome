@@ -1,3 +1,9 @@
+tuquito-gnome (4.0-2) lucid; urgency=low
+
+  * simple-scan agregado
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 02 Jun 2010 19:04:32 -0300
+
 tuquito-gnome (4.0-1) lucid; urgency=low
 
   * Version inicial
