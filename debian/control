@@ -1,0 +1,13 @@
+Source: tuquito-gnome
+Section: metapackages
+Priority: extra
+Maintainer: Mario Colque <mario@tuquito.org.ar>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.1
+
+Package: tuquito-gnome
+Architecture: all
+Depends: alacarte, bluez, bluez-alsa, bluez-cups, bluez-gstreamer, brasero, bsh, compiz, compiz-check, compizconfig-settings-manager, cups-pdf, deskbar-applet, desktop-file-utils, dmz-cursor-theme, eog, evince, file-roller, firefox, firefox-gnome-support, gnome-about, gnome-applets, gnome-codec-install, gnome-colors-common, gnome-control-center, gnome-desktop-data, gnome-doc-utils, gnome-icon-theme, gnome-keyring, gnome-mag, gnome-media, gnome-menus, gnome-mime-data, gnome-mplayer, gnome-nettool, gnome-panel, gnome-power-manager, gnome-screensaver, gnome-session, gnome-session-bin, gnome-session-canberra, gnome-settings-daemon, gnome-system-monitor, gnome-system-tools, gnome-terminal, gnome-user-share, gnome-utils, indicator-applet, indicator-me, indicator-session, indicator-sound, rarian-compat | scrollkeeper, yelp, gstreamer0.10-alsa, gstreamer0.10-plugins-base, gstreamer0.10-plugins-good, gstreamer0.10-tools, gtk2-engine, totem-plugins, vino, zenity, libgnomevfs2-extra,libgnome2-perl, gksu, libpam-gnome-keyring, gstreamer0.10-plugins-ugly, gstreamer0.10-ffmpeg, system-config-printer-gnome, transmission-gtk, avahi-daemon, update-notifier, empathy, gparted, gcalctool, gconf-editor, gdebi, gedit, gdm, gdm-guest-session, gufw, metacity, nautilus, nautilus-actions, nautilus-gksu, nautilus-open-terminal, nautilus-wallpaper, ndisgtk, ndiswrapper-common, ndiswrapper-utils-1.9, network-manager-gnome, network-manager-pptp, network-manager-pptp-gnome, notify-osd, notify-osd-icons, padevchooser, paman, paprefs, pavucontrol, pavumeter, plymouth-theme-tuquito-logo, pppoe, pulseaudio-module-zeroconf, python-compizconfig, samba, simple-ccsm, totem-mozilla, thunderbird, thunderbird-gnome-support, thunderbird-locale-es-ar, thunderbird-me-menu, tuquito-artwork-common, tuquito-firmware, tuquito-gnome-themes, tuquito-menu, tuquito-system, tuquito-wallpapers, ttf-dejavu, ttf-dejavu-extra, ttf-liberation, ubufox, xchat, xchat-common, xdg-user-dirs, xdg-user-dirs-gtk, xdg-utils, seahorse, software-properties-gtk, hardinfo, ttf-droid
+Description:  Conjunto de paquetes comunes a todas las ediciones GNOME
+ Conjunto de paquetes comunes a todas las ediciones basadas en GNOME
+ * Tuquito Team! - 2010
