@@ -1,3 +1,9 @@
+tuquito-gnome (4.0-4) lucid; urgency=low
+
+  * Revisión de paquetes en dependencias
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 05 Jun 2010 17:35:23 -0300
+
 tuquito-gnome (4.0-3.1) lucid; urgency=low
 
   * agregado gwibber
