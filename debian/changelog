@@ -1,3 +1,9 @@
+tuquito-gnome (4.0-4.3) lucid; urgency=low
+
+  * eliminado compiz-check
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 16 Jun 2010 01:03:47 -0300
+
 tuquito-gnome (4.0-4.2) lucid; urgency=low
 
   * Correccion en dependencias
