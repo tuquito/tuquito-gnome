@@ -1,3 +1,9 @@
+tuquito-gnome (4.0-4.5) lucid; urgency=low
+
+  * tuquito-screensaver agregado
+
+ -- Mario Colque <mario@tuquito.org.ar>  Tue, 22 Jun 2010 16:23:08 -0300
+
 tuquito-gnome (4.0-4.4) lucid; urgency=low
 
   * Nueva revición de dependencias
