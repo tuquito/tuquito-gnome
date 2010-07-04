@@ -1,3 +1,21 @@
+tuquito-gnome (4.0-7) lucid; urgency=low
+
+  * eliminación de paquetes: indicator-me, bsh
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sun, 04 Jul 2010 19:52:16 -0300
+
+tuquito-gnome (4.0-6) lucid; urgency=low
+
+  * Revisión de paquetes
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sun, 04 Jul 2010 12:57:07 -0300
+
+tuquito-gnome (4.0-5) lucid; urgency=low
+
+  * Revisión de paquetes
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 03 Jul 2010 18:48:24 -0300
+
 tuquito-gnome (4.0-4.7) lucid; urgency=low
 
   * Revisión de dependencias
