@@ -1,3 +1,9 @@
+tuquito-gnome (4.1) maverick; urgency=low
+
+  * rebranded to Wichi
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 23 Oct 2010 12:56:55 -0300
+
 tuquito-gnome (4.0-7) lucid; urgency=low
 
   * eliminación de paquetes: indicator-me, bsh
