@@ -1,3 +1,9 @@
+tuquito-gnome (4.2) maverick; urgency=low
+
+  * new depends
+
+ -- Mario Colque <mario@tuquito.org.ar>  Sat, 23 Oct 2010 21:56:32 -0300
+
 tuquito-gnome (4.1) maverick; urgency=low
 
   * rebranded to Wichi
